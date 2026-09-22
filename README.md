@@ -1,3 +1,5 @@
+![banner](https://raw.githubusercontent.com/thanhlxocany/thanhlxocany/main/banner.png)
+
 ## Xin chào, mình là Thanh 👋
 
 ### 🚀 Mobile & Web Developer | 6 năm kinh nghiệm "chinh chiến" với code
